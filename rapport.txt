@@ -1,0 +1,17 @@
+Guefassa Maroua
+Hacine Abir
+
+Notre projet Colab
+Résumé : Projet collaboratif réalisé avec Google Colab, Git et GitHub pour la gestion des versions et le partage du travail.
+Modèle : Logiciel Open Source
+Spécialité : Analyse expérimentale en Bio-industries
+Année : 2025/2026
+
+Git et GitHub sont des outils importants pour organiser et suivre un projet informatique.
+Git permet de conserver l’historique des modifications et de revenir à une ancienne version en cas de problème.
+GitHub permet de mettre les projets en ligne, de les partager et de faciliter le travail en équipe.
+Dans un projet scientifique ou en biotechnologie, ils peuvent servir à gérer les codes, les données et les différents fichiers du projet.
+Au cours de ce TP, j’ai appris à créer un dépôt, à le cloner dans Google Colab, puis à ajouter et enregistrer des fichiers avec un commit.
+J’ai également appris à envoyer les modifications vers GitHub grâce à la commande push.
+
+
