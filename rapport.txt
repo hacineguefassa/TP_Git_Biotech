@@ -1,7 +1,3 @@
-Git est un outil important en biotechnologie. Il permet 
- de sauvegarder le code, de suivre les modifications, de corriger les erreurs et de conserver les résultats des expériences. Il facilite également l'amélioration du projet et garantit la reproductibilité du travail scientifique.
-
-Idée de projet biotechnologique : FreshCheck – Emballage alimentaire intelligent
-
+Git est un outil important en biotechnologie. Il permet  de sauvegarder le code, de suivre les modifications, de corriger les erreurs et de conserver les résultats des expériences. Il facilite également l'amélioration du projet et garantit la reproductibilité du travail scientifique.I
+idée de projet biotechnologique : FreshCheck – Emballage alimentaire intelligent
 FreshCheck est un projet qui consiste à développer une étiquette intelligente qui change de couleur selon les indicateurs de détérioration des aliments. Elle permet de surveiller leur fraîcheur et d'aider les consommateurs à détecter les signes possibles de détérioration. Le projet utilise des indicateurs colorimétriques naturels pour créer un emballage intelligent et écologique.
-
